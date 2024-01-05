@@ -1,0 +1,21 @@
+.box{
+    border:solid red;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.mini-box{
+    border:solid blue;
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-right: 50px;
+}
+
+img{
+    width: 100px;
+    height: 150px;
+}
